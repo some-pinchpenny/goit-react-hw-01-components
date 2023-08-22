@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://images.unsplash.com/photo-1690642143805-34aa01fdbba8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDczfHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://images.unsplash.com/photo-1685208615625-beba8ae3bee7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwMHx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://images.unsplash.com/photo-1690390294159-76d4aa68e53d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNnx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://images.unsplash.com/photo-1689624159317-0d6f70689228?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExMHx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://images.unsplash.com/photo-1690145150475-3ce6bc09e4bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwOXx0b3dKWkZza3BHZ3x8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
